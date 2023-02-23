@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_app
+Allow: /*
+Allow: /*/*
+
+User-agent: Yandex
+Disallow: /_app
+Allow: /*
+Allow: /*/*
+
+Sitemap: https://picturesqueai.photos/sitemap.xml

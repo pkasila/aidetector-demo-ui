@@ -1,0 +1,6 @@
+name = "aidetector-demo"
+main = "./.cloudflare/worker.js"
+site.bucket = "./.cloudflare/public"
+
+build.command = "npm run build"
+compatibility_date = "2022-12-20"
